@@ -3,11 +3,9 @@
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
-
 _Congratulations friend, you've completed this course!_
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+<img src=[def] alt=celebrate width=300 align=right>
 
 Your blog is now live and has been deployed!
 
@@ -25,3 +23,6 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+
+
+[def]: https://octodex.github.com/images/constructocat2.jpg
